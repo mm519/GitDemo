@@ -37,6 +37,7 @@ public class tableExercises {
 		}else{
 			System.out.println("Count Fails");
 			System.out.println("Count Fails1");
+			System.out.println("Count Fails3");
 		}
 		
 	}
