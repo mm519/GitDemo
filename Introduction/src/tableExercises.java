@@ -38,6 +38,7 @@ public class tableExercises {
 			System.out.println("Count Fails");
 			System.out.println("Count Fails1");
 			System.out.println("Count Fails3");
+			System.out.println("Count Fails4");
 		}
 		
 	}
